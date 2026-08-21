@@ -1,0 +1,9 @@
+numpy>=1.22.0
+pandas>=1.4.0
+scikit-learn>=1.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+pillow>=9.0.0
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.0
+joblib>=1.1.0
