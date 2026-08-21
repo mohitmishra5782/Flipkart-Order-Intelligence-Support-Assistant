@@ -1,0 +1,7 @@
+{
+  "query": "What is the return window for clothing items?",
+  "result": {
+    "answer": "Apparel and Footwear products carry a 10-day return window from delivery date.",
+    "source": "policy_kb"
+  }
+}

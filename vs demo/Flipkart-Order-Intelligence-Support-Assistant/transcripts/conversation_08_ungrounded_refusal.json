@@ -1,0 +1,7 @@
+{
+  "query": "What is the space shuttle policy?",
+  "result": {
+    "answer": "I cannot answer this question based on verified policy documents.",
+    "source": "refusal"
+  }
+}

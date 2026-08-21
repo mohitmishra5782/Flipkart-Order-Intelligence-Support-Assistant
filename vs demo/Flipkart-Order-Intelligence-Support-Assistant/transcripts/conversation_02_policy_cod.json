@@ -1,0 +1,7 @@
+{
+  "query": "How are refunds handled for Cash on Delivery orders?",
+  "result": {
+    "answer": "Cash on Delivery refunds are processed via IMPS transfer within 3 to 5 business days.",
+    "source": "policy_kb"
+  }
+}

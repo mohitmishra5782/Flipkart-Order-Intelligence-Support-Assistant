@@ -1,0 +1,7 @@
+{
+  "query": "Assess return risk",
+  "result": {
+    "answer": "Return risk is 0.6122 (Medium Risk)",
+    "source": "risk_tool"
+  }
+}

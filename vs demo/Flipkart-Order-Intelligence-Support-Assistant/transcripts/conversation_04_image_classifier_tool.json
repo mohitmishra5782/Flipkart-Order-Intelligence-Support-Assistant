@@ -1,0 +1,7 @@
+{
+  "query": "Classify image",
+  "result": {
+    "answer": "Image classified as T-shirt/top",
+    "source": "classifier_tool"
+  }
+}

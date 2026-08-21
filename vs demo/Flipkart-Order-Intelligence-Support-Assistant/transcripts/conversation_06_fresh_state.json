@@ -1,0 +1,7 @@
+{
+  "query": "What is the electronics policy?",
+  "result": {
+    "answer": "Electronics products carry a strict 7-day replacement-only policy upon technician verification.",
+    "source": "policy_kb"
+  }
+}
